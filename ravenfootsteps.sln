@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ravenfootsteps", "ravenfootsteps.csproj", "{1E530CD4-9EC5-412B-80F8-36F8F2561334}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E530CD4-9EC5-412B-80F8-36F8F2561334}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E530CD4-9EC5-412B-80F8-36F8F2561334}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E530CD4-9EC5-412B-80F8-36F8F2561334}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E530CD4-9EC5-412B-80F8-36F8F2561334}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E8D10FB-814A-4C03-9A92-1B7974DC4687}
+	EndGlobalSection
+EndGlobal
